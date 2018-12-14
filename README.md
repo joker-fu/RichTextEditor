@@ -1,4 +1,4 @@
-本项目时修改MRichEditor，升级了summernote，去除了一些无用js和一些库（BRAVH、ButterKnife），合并到了一个library。
+本项目时修改MRichEditor，升级了summernote，修改了一些bug，去除了一些无用js(bootstrap、jquery)和库（BRAVH、ButterKnife），合并到了一个library。
 
 MRichEditor
 ===========
